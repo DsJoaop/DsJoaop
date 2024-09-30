@@ -1,5 +1,5 @@
 # About Me:
-👋Olá, meu nome é João Paulo, tenho 21 anos!;<br>🏡 Brasil - ES!;<br>🎓 Atualmente estou graduando em Sistemas de Informação pelo IFES - Instituto Federal do Espírito Santo;<br>💻 Estagiário de desenvolvimento web e web Design utilizando as tecnologias: HTML, CSS, JS, PHP E WordPress.
+👋Olá, meu nome é João Paulo, tenho 22 anos!;<br>🏡 Brasil - ES!;<br>🎓 Atualmente estou graduando em Sistemas de Informação pelo IFES - Instituto Federal do Espírito Santo;<br>💻 Estagiário de desenvolvimento web e web Design utilizando as tecnologias: HTML, CSS, JS, PHP E WordPress.
 
 <br>
 
